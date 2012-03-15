@@ -1,7 +1,6 @@
 # About
  
-This is the structure and content of my personal [Jekyll][1] boilerplate. WIP.
-
+This is the structure and content of my WIP personal [Jekyll][1] boilerplate for static website development.
 
 ## Plugins
 * [less_converter.rb][2] - Jason Graham's LESS CSS converter 
